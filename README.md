@@ -16,4 +16,4 @@ git clone https://github.com/Anadi18-hub/file-manager-project.git
 
 ## Learning Highlights
 1. This project helped me strengthen my understanding of Python file manipulation.
-2. I explored GUI development to create an interactive interface for a backend task.
+2. I explored claude AI for GUI development for a backend task.
