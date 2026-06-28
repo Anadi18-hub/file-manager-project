@@ -11,7 +11,7 @@ A simple and efficient file handling application built with Python. This project
 1. Ensure you have [Python](https://www.python.org/) installed on your system.
 2. Clone this repository:
 ```bash
-git clone [https://github.com/Anadi18-hub/file-manager-project.git](https://github.com/Anadi18-hub/file-manager-project.git)
+git clone https://github.com/Anadi18-hub/file-manager-project.git
 ```
 
 ## Learning Highlights
